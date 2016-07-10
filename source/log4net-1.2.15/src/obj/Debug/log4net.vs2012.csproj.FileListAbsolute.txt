@@ -1,0 +1,6 @@
+C:\Users\John\Downloads\log4net-1.2.15-src\log4net-1.2.15\build\bin\net\4.5\debug\log4net.dll
+C:\Users\John\Downloads\log4net-1.2.15-src\log4net-1.2.15\build\bin\net\4.5\debug\log4net.pdb
+C:\Users\John\Downloads\log4net-1.2.15-src\log4net-1.2.15\build\bin\net\4.5\debug\log4net.xml
+C:\Users\John\Downloads\log4net-1.2.15-src\log4net-1.2.15\src\obj\Debug\log4net.dll
+C:\Users\John\Downloads\log4net-1.2.15-src\log4net-1.2.15\src\obj\Debug\log4net.pdb
+C:\Users\John\Downloads\log4net-1.2.15-src\log4net-1.2.15\src\obj\Debug\log4net.vs2012.csprojResolveAssemblyReference.cache

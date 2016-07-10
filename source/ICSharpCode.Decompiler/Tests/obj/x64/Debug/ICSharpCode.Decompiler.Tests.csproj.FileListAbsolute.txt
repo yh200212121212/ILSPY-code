@@ -1,0 +1,1 @@
+D:\ILSpycn_Ha\源代码包\ICSharpCode.Decompiler\Tests\obj\x64\Debug\ICSharpCode.Decompiler.Tests.csprojResolveAssemblyReference.cache

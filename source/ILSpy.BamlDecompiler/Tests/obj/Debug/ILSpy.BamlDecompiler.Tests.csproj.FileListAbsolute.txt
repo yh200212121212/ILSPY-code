@@ -1,0 +1,69 @@
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\bin\Debug\ILSpy.BamlDecompiler.Tests.dll
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\bin\Debug\ILSpy.BamlDecompiler.Tests.pdb
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\ILSpy.BamlDecompiler.Tests.csprojResolveAssemblyReference.cache
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\AttachedEvent.baml
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\MyControl.baml
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\Resources.baml
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\Simple.baml
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\SimpleDictionary.baml
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\Dictionary1.baml
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\AttachedEvent.g.cs
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\MyControl.g.cs
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\Resources.g.cs
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\Simple.g.cs
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\SimpleNames.g.cs
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\ILSpy.BamlDecompiler.Tests_MarkupCompile.cache
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\ILSpy.BamlDecompiler.Tests_MarkupCompile.lref
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\AvalonDockBrushes.baml
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\AvalonDockCommon.baml
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\SimpleNames.baml
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\ILSpy.BamlDecompiler.Tests.g.resources
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\ILSpy.BamlDecompiler.Tests.dll
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\ILSpy.BamlDecompiler.Tests.pdb
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\bin\Debug\ILSpy.BamlDecompiler.Tests.dll
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\bin\Debug\ILSpy.BamlDecompiler.Tests.pdb
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\ILSpy.BamlDecompiler.Tests.csprojResolveAssemblyReference.cache
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\AttachedEvent.baml
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\MyControl.baml
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\Resources.baml
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\Simple.baml
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\SimpleDictionary.baml
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\Dictionary1.baml
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\AttachedEvent.g.cs
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\MyControl.g.cs
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\Resources.g.cs
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\Simple.g.cs
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\SimpleNames.g.cs
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\ILSpy.BamlDecompiler.Tests_MarkupCompile.cache
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\ILSpy.BamlDecompiler.Tests_MarkupCompile.lref
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\AvalonDockBrushes.baml
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\AvalonDockCommon.baml
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\SimpleNames.baml
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\ILSpy.BamlDecompiler.Tests.g.resources
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\ILSpy.BamlDecompiler.Tests.dll
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\ILSpy.BamlDecompiler.Tests.pdb
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\bin\Debug\ILSpy.BamlDecompiler.Tests.dll
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\bin\Debug\ILSpy.BamlDecompiler.Tests.pdb
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\ILSpy.BamlDecompiler.Tests.csprojResolveAssemblyReference.cache
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\AttachedEvent.baml
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\MyControl.baml
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\Resources.baml
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\Simple.baml
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\SimpleDictionary.baml
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\Dictionary1.baml
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\AttachedEvent.g.cs
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\MyControl.g.cs
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\Resources.g.cs
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\Simple.g.cs
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\SimpleNames.g.cs
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\ILSpy.BamlDecompiler.Tests_MarkupCompile.cache
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\ILSpy.BamlDecompiler.Tests_MarkupCompile.lref
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\AvalonDockBrushes.baml
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\AvalonDockCommon.baml
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\Cases\SimpleNames.baml
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\ILSpy.BamlDecompiler.Tests.g.resources
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\ILSpy.BamlDecompiler.Tests.dll
+D:\ILSpycn_Ha - 副本\源代码包\ILSpy.BamlDecompiler\Tests\obj\Debug\ILSpy.BamlDecompiler.Tests.pdb

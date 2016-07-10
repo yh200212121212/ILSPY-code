@@ -1,0 +1,5 @@
+C:\Users\John\Downloads\log4net-1.2.15-src\log4net-1.2.15\build\bin\net\4.5\release\log4net.dll
+C:\Users\John\Downloads\log4net-1.2.15-src\log4net-1.2.15\build\bin\net\4.5\release\log4net.xml
+C:\Users\John\Downloads\log4net-1.2.15-src\log4net-1.2.15\src\obj\Release\log4net.dll
+C:\Users\John\Downloads\log4net-1.2.15-src\log4net-1.2.15\build\bin\net\4.5\release\log4net.dll.CodeAnalysisLog.xml
+C:\Users\John\Downloads\log4net-1.2.15-src\log4net-1.2.15\build\bin\net\4.5\release\log4net.dll.lastcodeanalysissucceeded

@@ -1,0 +1,12 @@
+D:\ILSpycn_Ha\源代码包\Debugger\ILSpy.Debugger\obj\x64\Debug\ILSpy.Debugger.csprojResolveAssemblyReference.cache
+D:\ILSpycn_Ha\源代码包\Debugger\ILSpy.Debugger\obj\x64\Debug\UI\AttachToProcessWindow.baml
+D:\ILSpycn_Ha\源代码包\Debugger\ILSpy.Debugger\obj\x64\Debug\UI\DebuggerSettingsPanel.baml
+D:\ILSpycn_Ha\源代码包\Debugger\ILSpy.Debugger\obj\x64\Debug\UI\ExecuteProcessWindow.baml
+D:\ILSpycn_Ha\源代码包\Debugger\ILSpy.Debugger\obj\x64\Debug\ToolTips\DebuggerTooltipControl.g.cs
+D:\ILSpycn_Ha\源代码包\Debugger\ILSpy.Debugger\obj\x64\Debug\UI\AttachToProcessWindow.g.cs
+D:\ILSpycn_Ha\源代码包\Debugger\ILSpy.Debugger\obj\x64\Debug\UI\BreakpointPanel.g.cs
+D:\ILSpycn_Ha\源代码包\Debugger\ILSpy.Debugger\obj\x64\Debug\UI\CallStackPanel.g.cs
+D:\ILSpycn_Ha\源代码包\Debugger\ILSpy.Debugger\obj\x64\Debug\UI\DebuggerSettingsPanel.g.cs
+D:\ILSpycn_Ha\源代码包\Debugger\ILSpy.Debugger\obj\x64\Debug\UI\ExecuteProcessWindow.g.cs
+D:\ILSpycn_Ha\源代码包\Debugger\ILSpy.Debugger\obj\x64\Debug\ILSpy.Debugger.Plugin_MarkupCompile.cache
+D:\ILSpycn_Ha\源代码包\Debugger\ILSpy.Debugger\obj\x64\Debug\ILSpy.Debugger.Plugin_MarkupCompile.lref

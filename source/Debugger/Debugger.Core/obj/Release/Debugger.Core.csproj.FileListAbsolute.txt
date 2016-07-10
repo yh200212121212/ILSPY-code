@@ -1,0 +1,14 @@
+D:\ILSpycn_Ha - 副本\源代码包\Debugger\Debugger.Core\bin\Debug\Debugger.Core.dll
+D:\ILSpycn_Ha - 副本\源代码包\Debugger\Debugger.Core\bin\Debug\Debugger.Core.pdb
+D:\ILSpycn_Ha - 副本\源代码包\Debugger\Debugger.Core\bin\Debug\DiffLib.dll
+D:\ILSpycn_Ha - 副本\源代码包\Debugger\Debugger.Core\bin\Debug\ICSharpCode.NRefactory.CSharp.dll
+D:\ILSpycn_Ha - 副本\源代码包\Debugger\Debugger.Core\bin\Debug\ICSharpCode.NRefactory.dll
+D:\ILSpycn_Ha - 副本\源代码包\Debugger\Debugger.Core\bin\Debug\Mono.Cecil.dll
+D:\ILSpycn_Ha - 副本\源代码包\Debugger\Debugger.Core\bin\Debug\ICSharpCode.NRefactory.CSharp.pdb
+D:\ILSpycn_Ha - 副本\源代码包\Debugger\Debugger.Core\bin\Debug\ICSharpCode.NRefactory.CSharp.xml
+D:\ILSpycn_Ha - 副本\源代码包\Debugger\Debugger.Core\bin\Debug\ICSharpCode.NRefactory.pdb
+D:\ILSpycn_Ha - 副本\源代码包\Debugger\Debugger.Core\bin\Debug\ICSharpCode.NRefactory.xml
+D:\ILSpycn_Ha - 副本\源代码包\Debugger\Debugger.Core\bin\Debug\DiffLib.xml
+D:\ILSpycn_Ha - 副本\源代码包\Debugger\Debugger.Core\bin\Debug\Mono.Cecil.pdb
+D:\ILSpycn_Ha - 副本\源代码包\Debugger\Debugger.Core\obj\Release\Debugger.Core.dll
+D:\ILSpycn_Ha - 副本\源代码包\Debugger\Debugger.Core\obj\Release\Debugger.Core.pdb

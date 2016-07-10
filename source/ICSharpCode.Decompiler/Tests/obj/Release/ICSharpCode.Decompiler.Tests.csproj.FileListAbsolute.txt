@@ -1,0 +1,3 @@
+D:\ILSpycn_Ha - 副本\源代码包\ICSharpCode.Decompiler\bin\Release\ICSharpCode.Decompiler.Tests.dll
+D:\ILSpycn_Ha - 副本\源代码包\ICSharpCode.Decompiler\Tests\obj\Release\ICSharpCode.Decompiler.Tests.csprojResolveAssemblyReference.cache
+D:\ILSpycn_Ha - 副本\源代码包\ICSharpCode.Decompiler\Tests\obj\Release\ICSharpCode.Decompiler.Tests.dll

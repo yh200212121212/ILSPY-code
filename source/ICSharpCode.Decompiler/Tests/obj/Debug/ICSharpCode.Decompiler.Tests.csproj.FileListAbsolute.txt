@@ -1,0 +1,10 @@
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ICSharpCode.Decompiler\bin\Debug\ICSharpCode.Decompiler.Tests.dll
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ICSharpCode.Decompiler\bin\Debug\ICSharpCode.Decompiler.Tests.pdb
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ICSharpCode.Decompiler\Tests\obj\Debug\ICSharpCode.Decompiler.Tests.csprojResolveAssemblyReference.cache
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ICSharpCode.Decompiler\Tests\obj\Debug\ICSharpCode.Decompiler.Tests.dll
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\ICSharpCode.Decompiler\Tests\obj\Debug\ICSharpCode.Decompiler.Tests.pdb
+D:\ILSpycn_Ha\源代码包\ICSharpCode.Decompiler\bin\Debug\ICSharpCode.Decompiler.Tests.dll
+D:\ILSpycn_Ha\源代码包\ICSharpCode.Decompiler\bin\Debug\ICSharpCode.Decompiler.Tests.pdb
+D:\ILSpycn_Ha\源代码包\ICSharpCode.Decompiler\Tests\obj\Debug\ICSharpCode.Decompiler.Tests.csprojResolveAssemblyReference.cache
+D:\ILSpycn_Ha\源代码包\ICSharpCode.Decompiler\Tests\obj\Debug\ICSharpCode.Decompiler.Tests.dll
+D:\ILSpycn_Ha\源代码包\ICSharpCode.Decompiler\Tests\obj\Debug\ICSharpCode.Decompiler.Tests.pdb
