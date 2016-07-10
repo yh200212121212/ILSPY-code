@@ -1,0 +1,9 @@
+D:\ILSpycn_Ha - 副本\源代码包\zipSrcSamples\samples\cs\tar\bin\Release\tar.exe.config
+D:\ILSpycn_Ha - 副本\源代码包\zipSrcSamples\samples\cs\tar\bin\Release\tar.exe
+D:\ILSpycn_Ha - 副本\源代码包\zipSrcSamples\samples\cs\tar\bin\Release\tar.pdb
+D:\ILSpycn_Ha - 副本\源代码包\zipSrcSamples\samples\cs\tar\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\ILSpycn_Ha - 副本\源代码包\zipSrcSamples\samples\cs\tar\bin\Release\ICSharpCode.SharpZipLib.pdb
+D:\ILSpycn_Ha - 副本\源代码包\zipSrcSamples\samples\cs\tar\bin\Release\ICSharpCode.SharpZipLib.xml
+D:\ILSpycn_Ha - 副本\源代码包\zipSrcSamples\samples\cs\tar\obj\Release\tar.csprojResolveAssemblyReference.cache
+D:\ILSpycn_Ha - 副本\源代码包\zipSrcSamples\samples\cs\tar\obj\Release\tar.exe
+D:\ILSpycn_Ha - 副本\源代码包\zipSrcSamples\samples\cs\tar\obj\Release\tar.pdb

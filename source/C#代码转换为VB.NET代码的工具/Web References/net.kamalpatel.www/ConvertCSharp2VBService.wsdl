@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:s0="http://tempuri.org/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://tempuri.org/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="Execute">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="tcCSharpCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExecuteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ExecuteResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="string" nillable="true" type="s:string" />
+    </s:schema>
+  </types>
+  <message name="ExecuteSoapIn">
+    <part name="parameters" element="s0:Execute" />
+  </message>
+  <message name="ExecuteSoapOut">
+    <part name="parameters" element="s0:ExecuteResponse" />
+  </message>
+  <message name="ExecuteHttpGetIn">
+    <part name="tcCSharpCode" type="s:string" />
+  </message>
+  <message name="ExecuteHttpGetOut">
+    <part name="Body" element="s0:string" />
+  </message>
+  <message name="ExecuteHttpPostIn">
+    <part name="tcCSharpCode" type="s:string" />
+  </message>
+  <message name="ExecuteHttpPostOut">
+    <part name="Body" element="s0:string" />
+  </message>
+  <portType name="ConvertCSharp2VBServiceSoap">
+    <operation name="Execute">
+      <input message="s0:ExecuteSoapIn" />
+      <output message="s0:ExecuteSoapOut" />
+    </operation>
+  </portType>
+  <portType name="ConvertCSharp2VBServiceHttpGet">
+    <operation name="Execute">
+      <input message="s0:ExecuteHttpGetIn" />
+      <output message="s0:ExecuteHttpGetOut" />
+    </operation>
+  </portType>
+  <portType name="ConvertCSharp2VBServiceHttpPost">
+    <operation name="Execute">
+      <input message="s0:ExecuteHttpPostIn" />
+      <output message="s0:ExecuteHttpPostOut" />
+    </operation>
+  </portType>
+  <binding name="ConvertCSharp2VBServiceSoap" type="s0:ConvertCSharp2VBServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <operation name="Execute">
+      <soap:operation soapAction="http://tempuri.org/Execute" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <binding name="ConvertCSharp2VBServiceHttpGet" type="s0:ConvertCSharp2VBServiceHttpGet">
+    <http:binding verb="GET" />
+    <operation name="Execute">
+      <http:operation location="/Execute" />
+      <input>
+        <http:urlEncoded />
+      </input>
+      <output>
+        <mime:mimeXml part="Body" />
+      </output>
+    </operation>
+  </binding>
+  <binding name="ConvertCSharp2VBServiceHttpPost" type="s0:ConvertCSharp2VBServiceHttpPost">
+    <http:binding verb="POST" />
+    <operation name="Execute">
+      <http:operation location="/Execute" />
+      <input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </input>
+      <output>
+        <mime:mimeXml part="Body" />
+      </output>
+    </operation>
+  </binding>
+  <service name="ConvertCSharp2VBService">
+    <port name="ConvertCSharp2VBServiceSoap" binding="s0:ConvertCSharp2VBServiceSoap">
+      <soap:address location="http://www.kamalpatel.net/ConvertCSharp2VBService.asmx" />
+    </port>
+    <port name="ConvertCSharp2VBServiceHttpGet" binding="s0:ConvertCSharp2VBServiceHttpGet">
+      <http:address location="http://www.kamalpatel.net/ConvertCSharp2VBService.asmx" />
+    </port>
+    <port name="ConvertCSharp2VBServiceHttpPost" binding="s0:ConvertCSharp2VBServiceHttpPost">
+      <http:address location="http://www.kamalpatel.net/ConvertCSharp2VBService.asmx" />
+    </port>
+  </service>
+</definitions>

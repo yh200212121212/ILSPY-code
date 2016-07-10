@@ -1,0 +1,15 @@
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\x64\Debug\ILSpy.BamlDecompiler.Tests.csprojResolveAssemblyReference.cache
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\x64\Debug\Cases\AttachedEvent.baml
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\x64\Debug\Cases\MyControl.baml
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\x64\Debug\Cases\Resources.baml
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\x64\Debug\Cases\Simple.baml
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\x64\Debug\Cases\SimpleDictionary.baml
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\x64\Debug\Cases\Dictionary1.baml
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\x64\Debug\Cases\AttachedEvent.g.cs
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\x64\Debug\Cases\MyControl.g.cs
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\x64\Debug\Cases\Resources.g.cs
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\x64\Debug\Cases\Simple.g.cs
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\x64\Debug\Cases\SimpleNames.g.cs
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\x64\Debug\ILSpy.BamlDecompiler.Tests_MarkupCompile.cache
+D:\ILSpycn_Ha\源代码包\ILSpy.BamlDecompiler\Tests\obj\x64\Debug\ILSpy.BamlDecompiler.Tests_MarkupCompile.lref

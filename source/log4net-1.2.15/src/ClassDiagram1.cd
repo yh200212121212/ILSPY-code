@@ -1,0 +1,1708 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="log4net.Appender.AdoNetAppender" Collapsed="true">
+    <Position X="18.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iQAAAAACoAwQgIWgAIAAAAAKAJIIAAAAICKAAiBAAAA=</HashCode>
+      <FileName>Appender\AdoNetAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.AdoNetAppenderParameter" Collapsed="true">
+    <Position X="76.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAwCAAIAICAEAAAAAAADAIAIEAAAIAEAA=</HashCode>
+      <FileName>Appender\AdoNetAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.AnsiColorTerminalAppender" Collapsed="true">
+    <Position X="7.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAgAAAACAAACAgQAAAAQAEAAAAAQAgAAA=</HashCode>
+      <FileName>Appender\AnsiColorTerminalAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.AppenderCollection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="79.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAAEBgCICIEBARCAAAFKQyAAUAAAAECAAIAARcIBA=</HashCode>
+      <FileName>Appender\AppenderCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Appender.AppenderSkeleton" Collapsed="true">
+    <Position X="25.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GIAFEIAAaAAAgAAAAAJCQAUAIAAAAYAMAAIgQQiAAAA=</HashCode>
+      <FileName>Appender\AppenderSkeleton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="log4net.Appender.AspNetTraceAppender" Collapsed="true">
+    <Position X="16.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAQAEAAAAAAAACAA=</HashCode>
+      <FileName>Appender\AspNetTraceAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.BufferingAppenderSkeleton" Collapsed="true">
+    <Position X="23" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBAACIAAKAQAgACACAAAAAAAAAAAARAAAAoAICAIAQA=</HashCode>
+      <FileName>Appender\BufferingAppenderSkeleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.BufferingForwardingAppender" Collapsed="true">
+    <Position X="23" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAQAAAAEIAAAAAAAAAgAAAAAAAIAAAIAAAA=</HashCode>
+      <FileName>Appender\BufferingForwardingAppender.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="log4net.Appender.ColoredConsoleAppender" Collapsed="true">
+    <Position X="29.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAACIAABIgAAACiAAACQAQAAEAQAEAAAAAQAgAAA=</HashCode>
+      <FileName>Appender\ColoredConsoleAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.ConsoleAppender" Collapsed="true">
+    <Position X="32" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAQAAAAQAEAAAAAQAgAAA=</HashCode>
+      <FileName>Appender\ConsoleAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.DebugAppender" Collapsed="true">
+    <Position X="34.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAACAAAAAAAAAAQAEAAAAAAAAAAA=</HashCode>
+      <FileName>Appender\DebugAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.EventLogAppender" Collapsed="true">
+    <Position X="38.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAQCAAAoAAQEgAAACKEAAIAAAAgQBWAEAAAAAABACCA=</HashCode>
+      <FileName>Appender\EventLogAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.FileAppender" Collapsed="true">
+    <Position X="41" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAIAAAAAhRAAAIAAAAAIwAAUAcAAABIgAABEQDE=</HashCode>
+      <FileName>Appender\FileAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.ForwardingAppender" Collapsed="true">
+    <Position X="45.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAQAAAAEIAAAAAAAAAgAAQAAAAIAAAIAAAA=</HashCode>
+      <FileName>Appender\ForwardingAppender.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="log4net.Appender.LocalSyslogAppender" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJAgAIAgAIgAAAQSAQAAAAAAAAAQAEAEIAAAAAAgA=</HashCode>
+      <FileName>Appender\LocalSyslogAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.ManagedColoredConsoleAppender" Collapsed="true">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAgAAAACAAACAAQAAAAQAEAAAAAQAgAAA=</HashCode>
+      <FileName>Appender\ManagedColoredConsoleAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.MemoryAppender" Collapsed="true">
+    <Position X="9.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAACAAAAACAAAAAAAQACAAAAQAAAAAAAABACAA=</HashCode>
+      <FileName>Appender\MemoryAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.NetSendAppender" Collapsed="true">
+    <Position X="11.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAgAAEAIAAAAAAAAAAAQAEAAAAAgBIQAA=</HashCode>
+      <FileName>Appender\NetSendAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.OutputDebugStringAppender" Collapsed="true">
+    <Position X="14" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAEAAAAAAAAIAA=</HashCode>
+      <FileName>Appender\OutputDebugStringAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.RemoteSyslogAppender" Collapsed="true">
+    <Position X="47.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAIAIIAAIgAAAQCAQAAAAAAAAAQAAAEAAAQAAAgA=</HashCode>
+      <FileName>Appender\RemoteSyslogAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.RemotingAppender" Collapsed="true">
+    <Position X="20.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAgAACACAAAAIAAAAQAAAAAAIBAABAEAA=</HashCode>
+      <FileName>Appender\RemotingAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.RollingFileAppender" Collapsed="true">
+    <Position X="41" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>aAUEEwYAAALAkARFhYAEAAQBYAAQQcACSAGAEYAAApo=</HashCode>
+      <FileName>Appender\RollingFileAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.SmtpAppender" Collapsed="true">
+    <Position X="25.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QoAAABACQAYMKBAEAYAAhQCASgAIEIgmAAEAAAQCADg=</HashCode>
+      <FileName>Appender\SmtpAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.SmtpPickupDirAppender" Collapsed="true">
+    <Position X="27.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAQQgQAAAIAIgAAAAAAIAIAkAAEAAABEAAA=</HashCode>
+      <FileName>Appender\SmtpPickupDirAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.TelnetAppender" Collapsed="true">
+    <Position X="36.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAgAAAAAAAAEAACAACAQAEAAIAAAAAAAA=</HashCode>
+      <FileName>Appender\TelnetAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.TextWriterAppender" Collapsed="true">
+    <Position X="41" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAIAAgAAAABIAAAACAgAAIAAAQAYAEAAIgAQkAAAA=</HashCode>
+      <FileName>Appender\TextWriterAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.TraceAppender" Collapsed="true">
+    <Position X="43.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAACAAAAAAAAQAQAEAAAAAAAACAA=</HashCode>
+      <FileName>Appender\TraceAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Appender.UdpAppender" Collapsed="true">
+    <Position X="47.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAICAAAgACAAAQCIAAIgAAAAUAEAAMAAAAAAAY=</HashCode>
+      <FileName>Appender\UdpAppender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Config.AliasDomainAttribute" Collapsed="true">
+    <Position X="19.5" Y="22" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Config\AliasDomainAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Config.AliasRepositoryAttribute" Collapsed="true">
+    <Position X="19.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Config\AliasRepositoryAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Config.BasicConfigurator" Collapsed="true">
+    <Position X="81.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAACAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Config\BasicConfigurator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Config.ConfiguratorAttribute" Collapsed="true">
+    <Position X="18.75" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAABAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Config\ConfiguratorAttribute.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="log4net.Config.DomainAttribute" Collapsed="true">
+    <Position X="16.5" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Config\DomainAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Config.DOMConfigurator" Collapsed="true">
+    <Position X="85" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Config\DOMConfigurator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Config.DOMConfiguratorAttribute" Collapsed="true">
+    <Position X="19.75" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Config\DOMConfiguratorAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Config.Log4NetConfigurationSectionHandler" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="79.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Config\Log4NetConfigurationSectionHandler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Config.PluginAttribute" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="88.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIACAAAAAQAAEAAAAAAAAAAAAABAAAQAAAAAAAAA=</HashCode>
+      <FileName>Config\PluginAttribute.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Config.RepositoryAttribute" Collapsed="true">
+    <Position X="16.5" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAABAAAAAEQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Config\RepositoryAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Config.SecurityContextProviderAttribute" Collapsed="true">
+    <Position X="17.5" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAABAAAAAAAAACAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Config\SecurityContextProviderAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Config.XmlConfigurator" Collapsed="true">
+    <Position X="79.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAgCAAEAAAACAABAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Config\XmlConfigurator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Config.XmlConfiguratorAttribute" Collapsed="true">
+    <Position X="19.75" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBAAQAAABACAAAgIAABAAAAAAAAAAAAAAAgAAgAAAAA=</HashCode>
+      <FileName>Config\XmlConfiguratorAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Core.CompactRepositorySelector" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="85" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAgAAAAAAAAgAAEACAAAAAAAAgAUAAAACAAAQA=</HashCode>
+      <FileName>Core\CompactRepositorySelector.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Core.DefaultRepositorySelector" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="83.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>WAACAAAgAEAAAAAAgCAEACAAAAIAAAoAUAAAACAAAQQ=</HashCode>
+      <FileName>Core\DefaultRepositorySelector.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Core.ExceptionEvaluator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="92" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAoAAAAAAAAAEAAAIAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\ExceptionEvaluator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Core.LoggerRepositoryCreationEventArgs" Collapsed="true">
+    <Position X="88.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Core\IRepositorySelector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Core.Level" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="85" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAIEIAAAIEAAYQEgACEAgSAABAEAZEAAIBgAUAEB6I=</HashCode>
+      <FileName>Core\Level.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Core.LevelCollection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="86.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAAEBgCICIABARCAAAFKQyAAUAAAAECAAIAARcIBA=</HashCode>
+      <FileName>Core\LevelCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Core.LevelEvaluator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="88.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAIAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Core\LevelEvaluator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Core.LevelMap" Collapsed="true">
+    <Position X="90.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAgAAAAQAAACAAABAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Core\LevelMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Core.LocationInfo" Collapsed="true">
+    <Position X="78" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAICAACAAAAAAAAIAEAEAAAAIAAAAgACAABIQCA=</HashCode>
+      <FileName>Core\LocationInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Core.LogException" Collapsed="true">
+    <Position X="81.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\LogException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Core.LoggerManager" Collapsed="true">
+    <Position X="86.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAQgAgAgAAAAAgAACAQBAAAgCAQgEAAAAAEEAAAA=</HashCode>
+      <FileName>Core\LoggerManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Core.LoggerWrapperImpl" Collapsed="true">
+    <Position X="13.5" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\LoggerWrapperImpl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="log4net.Core.LoggingEvent" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="90.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SCiADAOIiAAAQgCAAIAAgAAkIkACACABIUBACIACAIA=</HashCode>
+      <FileName>Core\LoggingEvent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Core.LogImpl" Collapsed="true">
+    <Position X="13.5" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAAIBAAAAbCAAAAAAIAAQCCgkAUAAAAACEAEEQA=</HashCode>
+      <FileName>Core\LogImpl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="log4net.Core.MethodItem" Collapsed="true">
+    <Position X="86.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAAAAIAAAAAAAAAAAAAAAQAABAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Core\MethodItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Core.SecurityContext" Collapsed="true">
+    <Position X="18.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Core\SecurityContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Core.SecurityContextProvider" Collapsed="true">
+    <Position X="92" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAIBAAAAAA=</HashCode>
+      <FileName>Core\SecurityContextProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Core.StackFrameItem" Collapsed="true">
+    <Position X="78" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBAAAAICAACAAAAAAAAoAAAAAAAAIAAAAgAAAABAQCA=</HashCode>
+      <FileName>Core\StackFrameItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Core.TimeEvaluator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="88.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAABEAAIIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\TimeEvaluator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Core.WrapperMap" Collapsed="true">
+    <Position X="78" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAgIAAAQAAAAAAAAQAAAAAAAAABAAgAACAAAA=</HashCode>
+      <FileName>Core\WrapperMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.DateFormatter.AbsoluteTimeDateFormatter" Collapsed="true">
+    <Position X="1.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAABAAgAAgAAAAAAABACAAAABABAAAAAAAA=</HashCode>
+      <FileName>DateFormatter\AbsoluteTimeDateFormatter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="log4net.DateFormatter.DateTimeDateFormatter" Collapsed="true">
+    <Position X="0.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DateFormatter\DateTimeDateFormatter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.DateFormatter.Iso8601DateFormatter" Collapsed="true">
+    <Position X="2.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DateFormatter\Iso8601DateFormatter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.DateFormatter.SimpleDateFormatter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="76.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DateFormatter\SimpleDateFormatter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Filter.DenyAllFilter" Collapsed="true">
+    <Position X="1" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Filter\DenyAllFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Filter.FilterSkeleton" Collapsed="true">
+    <Position X="6.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAggAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Filter\FilterSkeleton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="log4net.Filter.LevelMatchFilter" Collapsed="true">
+    <Position X="3.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAABAAAAAAAAAAAAABIBAAAAA=</HashCode>
+      <FileName>Filter\LevelMatchFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Filter.LevelRangeFilter" Collapsed="true">
+    <Position X="5.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQQAAAAAAAgAAAAAAAAACAAAAAAAAAAAABIBAAAAA=</HashCode>
+      <FileName>Filter\LevelRangeFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Filter.LoggerMatchFilter" Collapsed="true">
+    <Position X="7.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAABIBAAAAA=</HashCode>
+      <FileName>Filter\LoggerMatchFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Filter.MdcFilter" Collapsed="true">
+    <Position X="10" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filter\MdcFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Filter.NdcFilter" Collapsed="true">
+    <Position X="12.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filter\NdcFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Filter.PropertyFilter" Collapsed="true">
+    <Position X="11" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Filter\PropertyFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Filter.StringMatchFilter" Collapsed="true">
+    <Position X="11" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAABAAAAAAAAARgAIAAABIBAAAAA=</HashCode>
+      <FileName>Filter\StringMatchFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.GlobalContext" Collapsed="true">
+    <Position X="78" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABCAAA=</HashCode>
+      <FileName>GlobalContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.LogicalThreadContext" Collapsed="true">
+    <Position X="92" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAgAAAAAAAAAAAAABCAAA=</HashCode>
+      <FileName>LogicalThreadContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.LogManager" Collapsed="true">
+    <Position X="81.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACCQAAAAgAAAAAgAAQAQBAAAgMAQgEAAAAAAEAAAA=</HashCode>
+      <FileName>LogManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.MDC" Collapsed="true">
+    <Position X="85" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABABAAAAABAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>MDC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.NDC" Collapsed="true">
+    <Position X="90.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAABIAAAACAAAAgAAAAAABACAA=</HashCode>
+      <FileName>NDC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.ThreadContext" Collapsed="true">
+    <Position X="83.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAgAAAAAAAAAAAAABCAAA=</HashCode>
+      <FileName>ThreadContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.DynamicPatternLayout" Collapsed="true">
+    <Position X="7.5" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAA=</HashCode>
+      <FileName>Layout\DynamicPatternLayout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.ExceptionLayout" Collapsed="true">
+    <Position X="5.25" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\ExceptionLayout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Layout2RawLayoutAdapter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="83.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Layout2RawLayoutAdapter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Layout.LayoutSkeleton" Collapsed="true">
+    <Position X="5.25" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAACAAAAAAgAAAAAAABAAIAAgAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Layout\LayoutSkeleton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="log4net.Layout.PatternLayout" Collapsed="true">
+    <Position X="7.5" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAJACAgAAAQAAAAAAAEAkABAAAAgAAAAQAAAA=</HashCode>
+      <FileName>Layout\PatternLayout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.RawLayoutConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="79.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\RawLayoutConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Layout.RawPropertyLayout" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="81.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAQAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\RawPropertyLayout.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Layout.RawTimeStampLayout" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="83.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\RawTimeStampLayout.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Layout.RawUtcTimeStampLayout" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="85" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\RawUtcTimeStampLayout.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Layout.SimpleLayout" Collapsed="true">
+    <Position X="9.75" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\SimpleLayout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.XmlLayout" Collapsed="true">
+    <Position X="3" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAglASmAkQkAAGAASAAAECiEAgAAIAAQIAEAiABIQ=</HashCode>
+      <FileName>Layout\XmlLayout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.XmlLayoutBase" Collapsed="true">
+    <Position X="2" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACEAgAgAAAAAgAAAAAgAgAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Layout\XmlLayoutBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.XmlLayoutSchemaLog4j" Collapsed="true">
+    <Position X="0.75" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAEAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\XmlLayoutSchemaLog4j.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.AppDomainPatternConverter" Collapsed="true">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\AppDomainPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.AspNetCachePatternConverter" Collapsed="true">
+    <Position X="17.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\AspNetCachePatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.AspNetContextPatternConverter" Collapsed="true">
+    <Position X="19.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\AspNetContextPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.AspNetPatternLayoutConverter" Collapsed="true">
+    <Position X="20.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\AspNetPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.AspNetRequestPatternConverter" Collapsed="true">
+    <Position X="22" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\AspNetRequestPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.AspNetSessionPatternConverter" Collapsed="true">
+    <Position X="24.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\AspNetSessionPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.DatePatternConverter" Collapsed="true">
+    <Position X="31" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAgAIAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\DatePatternConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="log4net.Layout.Pattern.ExceptionPatternConverter" Collapsed="true">
+    <Position X="35.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\ExceptionPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.FileLocationPatternConverter" Collapsed="true">
+    <Position X="40" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\FileLocationPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.FullLocationPatternConverter" Collapsed="true">
+    <Position X="42.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\FullLocationPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.IdentityPatternConverter" Collapsed="true">
+    <Position X="46.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\IdentityPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.LevelPatternConverter" Collapsed="true">
+    <Position X="49" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\LevelPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.LineLocationPatternConverter" Collapsed="true">
+    <Position X="51.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\LineLocationPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.LoggerPatternConverter" Collapsed="true">
+    <Position X="13" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\LoggerPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.MessagePatternConverter" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\MessagePatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.MethodLocationPatternConverter" Collapsed="true">
+    <Position X="6.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\MethodLocationPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.NamedPatternConverter" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAACAAAgAAAAIAAAEAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\NamedPatternConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="log4net.Layout.Pattern.NdcPatternConverter" Collapsed="true">
+    <Position X="15.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\NdcPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.PatternLayoutConverter" Collapsed="true">
+    <Position X="27.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAIAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\PatternLayoutConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.PropertyPatternConverter" Collapsed="true">
+    <Position X="26.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\PropertyPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.RelativeTimePatternConverter" Collapsed="true">
+    <Position X="28.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Layout\Pattern\RelativeTimePatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.StackTraceDetailPatternConverter" Collapsed="true">
+    <Position X="33.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\StackTraceDetailPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.StackTracePatternConverter" Collapsed="true">
+    <Position X="33.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAIAAAAgAAAAIAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Layout\Pattern\StackTracePatternConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="log4net.Layout.Pattern.ThreadPatternConverter" Collapsed="true">
+    <Position X="37.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\ThreadPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.TypeNamePatternConverter" Collapsed="true">
+    <Position X="10.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\TypeNamePatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.UserNamePatternConverter" Collapsed="true">
+    <Position X="44.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\UserNamePatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Layout.Pattern.UtcDatePatternConverter" Collapsed="true">
+    <Position X="31" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\Pattern\UtcDatePatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.ObjectRenderer.DefaultRenderer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="81.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAEAAAAAAAAAAAIgAAAAAA=</HashCode>
+      <FileName>ObjectRenderer\DefaultRenderer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.ObjectRenderer.RendererMap" Collapsed="true">
+    <Position X="88.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAAAAGIAAAAAAABAAAAAAAAAAAACAAAAAAIAAABAAAg=</HashCode>
+      <FileName>ObjectRenderer\RendererMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Plugin.PluginCollection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="90.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAAEBgCICIABARCAAAFKQyAAUAAAAECAAIAARcIBA=</HashCode>
+      <FileName>Plugin\PluginCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Plugin.PluginMap" Collapsed="true">
+    <Position X="92" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABAAAAAAAAAAACAAABAAAAAAAAAAAEIAAAAAAAAA=</HashCode>
+      <FileName>Plugin\PluginMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Plugin.PluginSkeleton" Collapsed="true">
+    <Position X="0.5" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAABAAAAAAAAAAAAAAAAQQAAIAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Plugin\PluginSkeleton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="log4net.Plugin.RemoteLoggingServerPlugin" Collapsed="true">
+    <Position X="0.5" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAgAAAAAAAAAAQAAAIAAAAAAAAAAAABAAgA=</HashCode>
+      <FileName>Plugin\RemoteLoggingServerPlugin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Repository.ConfigurationChangedEventArgs" Collapsed="true">
+    <Position X="88.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\ConfigurationChangedEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Repository.LoggerRepositorySkeleton" Collapsed="true">
+    <Position X="10.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>WABAgMEECAASAAAiAIRAAQVAAAgAAAAEAgAkAAMCACA=</HashCode>
+      <FileName>Repository\LoggerRepositorySkeleton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="log4net.Repository.Hierarchy.DefaultLoggerFactory" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="79.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\Hierarchy\DefaultLoggerFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Repository.Hierarchy.LoggerCreationEventArgs" Collapsed="true">
+    <Position X="83.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\Hierarchy\Hierarchy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Repository.Hierarchy.Hierarchy" Collapsed="true">
+    <Position X="10.5" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAABBAAAAYAIBiAAAAYCAQhAAAgEAAEMAgQBAANAAAA=</HashCode>
+      <FileName>Repository\Hierarchy\Hierarchy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="log4net.Repository.Hierarchy.Logger" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAAAAKQAAQAAAAMoQAEQAQAAAgAIAABAAAxAAoAEAQ=</HashCode>
+      <FileName>Repository\Hierarchy\Logger.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="log4net.Repository.Hierarchy.LoggerKey" Collapsed="true">
+    <Position X="85" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAggAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\Hierarchy\LoggerKey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Repository.Hierarchy.ProvisionNode" Collapsed="true">
+    <Position X="78" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\Hierarchy\ProvisionNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Repository.Hierarchy.RootLogger" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAQAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\Hierarchy\RootLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Repository.Hierarchy.XmlHierarchyConfigurator" Collapsed="true">
+    <Position X="81.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GgInEWARBIAgAwgIAAxIAAQAEAIBIBAAIAgAIIJAAVI=</HashCode>
+      <FileName>Repository\Hierarchy\XmlHierarchyConfigurator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.AppenderAttachedImpl" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="78" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAACAAAQAAAAEIAAAAAAAAEAAAAAQAIAAAAIAAAg=</HashCode>
+      <FileName>Util\AppenderAttachedImpl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Util.CompositeProperties" Collapsed="true">
+    <Position X="86.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAACAAAAAAAACAAAAAAAQAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Util\CompositeProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.ContextPropertiesBase" Collapsed="true">
+    <Position X="18" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\ContextPropertiesBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.ConverterInfo" Collapsed="true">
+    <Position X="92" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAIAAAAAAAAAAAAAAAAAQAAAAAAAAIAQAAAAACAAA=</HashCode>
+      <FileName>Util\ConverterInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.CountingQuietTextWriter" Collapsed="true">
+    <Position X="14.75" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Util\CountingQuietTextWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.CyclicBuffer" Collapsed="true">
+    <Position X="78" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEIAAAAAAAAAAACAAAABBFAAAAAQAAAgAAAABAAAU=</HashCode>
+      <FileName>Util\CyclicBuffer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.EmptyCollection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="86.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAABAAAgAAEAQAAAAAAAAAQAAAAAAAIAA=</HashCode>
+      <FileName>Util\EmptyCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Util.EmptyDictionary" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="88.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAACAABAQCgAAFAQgAAAAAAAEQAAgAABQIAA=</HashCode>
+      <FileName>Util\EmptyDictionary.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Util.FormattingInfo" Collapsed="true">
+    <Position X="76.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABgAIAAAEAAAAAIABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\FormattingInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.GlobalContextProperties" Collapsed="true">
+    <Position X="15.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgCAAABAAAAAAMAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Util\GlobalContextProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.ILogExtensions" Collapsed="true">
+    <Position X="79.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAEQAAAAAAAQQgAIAAQAAAAAAAAABgAAAAACAA=</HashCode>
+      <FileName>Util\ILogExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.LevelMapping" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="92" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAABAkAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\LevelMapping.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Util.LevelMappingEntry" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="76.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAABAAAAAAgAAAA=</HashCode>
+      <FileName>Util\LevelMappingEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Util.LogicalThreadContextProperties" Collapsed="true">
+    <Position X="18" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAACAAAAAAAAQAACQAABAAAAAAAAAAQAAAAAABAAAA=</HashCode>
+      <FileName>Util\LogicalThreadContextProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.LogicalThreadContextStack" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="76.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAEAAAACAQAAECAAAAAAAAAACRACAI=</HashCode>
+      <FileName>Util\LogicalThreadContextStack.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Util.LogicalThreadContextStacks" Collapsed="true">
+    <Position X="78" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAEAAAAAEAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\LogicalThreadContextStacks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.LogLog" Collapsed="true">
+    <Position X="79.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAACSAgAAAfIEBACCAEACACAAAsEKAABAJAAAECA=</HashCode>
+      <FileName>Util\LogLog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.LogReceivedEventArgs" Collapsed="true">
+    <Position X="83.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Util\LogLog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.NativeError" Collapsed="true">
+    <Position X="88.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAAAAAAAQAAFAEAAAACAAAAAAAAAAAAAIAAAAQA=</HashCode>
+      <FileName>Util\NativeError.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.NullDictionaryEnumerator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="92" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAABAQAAgCAAAAAAAAAAAAAYAAgAAAAAAA=</HashCode>
+      <FileName>Util\NullDictionaryEnumerator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Util.NullEnumerator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="76.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAgCAAAAAAAAAAAAAYAAAAAAAAAA=</HashCode>
+      <FileName>Util\NullEnumerator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Util.NullSecurityContext" Collapsed="true">
+    <Position X="19.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAI=</HashCode>
+      <FileName>Util\NullSecurityContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.OnlyOnceErrorHandler" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="78" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQAAAAQAAAAARQAAAAUFAAAIAEgAAAAEAABAAAAAAAA=</HashCode>
+      <FileName>Util\OnlyOnceErrorHandler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Util.OptionConverter" Collapsed="true">
+    <Position X="79.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgEAAAAEAAAAMAAAAIQAAAAACAAAAAAAAIBAAIQAAAA=</HashCode>
+      <FileName>Util\OptionConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.PatternConverter" Collapsed="true">
+    <Position X="38.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KhIAAIABIAgAIgAAAIAACAIAAAgggIAgAAAAAAACAAA=</HashCode>
+      <FileName>Util\PatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.PatternParser" Collapsed="true">
+    <Position X="83.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEAgAAQAIAAABAAgAAEAIAEAEAEAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Util\PatternParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.PatternString" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="85" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIACAgAAAQAAAAAAAEAkAAAAAAgAAAAQAAAA=</HashCode>
+      <FileName>Util\PatternString.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Util.PropertiesDictionary" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABgAACBBEAAAACIAABAAAAAAAgAAEAAAIAIRAAAI=</HashCode>
+      <FileName>Util\PropertiesDictionary.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="log4net.Util.PropertyEntry" Collapsed="true">
+    <Position X="76.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAQEAAAAAAAAAAQAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Util\PropertyEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.ProtectCloseTextWriter" Collapsed="true">
+    <Position X="12.5" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Util\ProtectCloseTextWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.QuietTextWriter" Collapsed="true">
+    <Position X="14.75" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAQGAAAA=</HashCode>
+      <FileName>Util\QuietTextWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.ReaderWriterLock" Collapsed="true">
+    <Position X="86.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAEAAAAAAAAAAAAAAAAEAAAAAAAgCA=</HashCode>
+      <FileName>Util\ReaderWriterLock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.ReadOnlyPropertiesDictionary" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIBgAACBBEBAAACIAAAAQgAAAAgAAEAEAIAIRQAAI=</HashCode>
+      <FileName>Util\ReadOnlyPropertiesDictionary.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="log4net.Util.ReusableStringWriter" Collapsed="true">
+    <Position X="90.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\ReusableStringWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.SystemInfo" Collapsed="true">
+    <Position X="79.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>yIAARACAQAAAA4IAAAIkBAAAAAAEAAQQEAACAAUEgjA=</HashCode>
+      <FileName>Util\SystemInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.SystemStringFormat" Collapsed="true">
+    <Position X="81.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIIAAAAAAAAAAAGAEAAAAAAIAAAAEAAAAAIAAAAAAA=</HashCode>
+      <FileName>Util\SystemStringFormat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.TextWriterAdapter" Collapsed="true">
+    <Position X="13.75" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAADAAAAAAAAAAAAAAgAAAAAAAAAACAAGIAAA=</HashCode>
+      <FileName>Util\TextWriterAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.ThreadContextProperties" Collapsed="true">
+    <Position X="20.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAICABAAAAAAAAACAAABAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Util\ThreadContextProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.ThreadContextStack" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="85" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAEAAAACAQAAACAAAAAAAAAAARACAI=</HashCode>
+      <FileName>Util\ThreadContextStack.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Util.ThreadContextStacks" Collapsed="true">
+    <Position X="86.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAEAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\ThreadContextStacks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.Transform" Collapsed="true">
+    <Position X="90.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAABAAAAAAAAAAFAAAgAAAAAAACA=</HashCode>
+      <FileName>Util\Transform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.WindowsSecurityContext" Collapsed="true">
+    <Position X="17.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQQAoAAEAAAAASAIAAIEAAACAQAAAAAAAgI=</HashCode>
+      <FileName>Util\WindowsSecurityContext.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="log4net.Util.PatternStringConverters.AppDomainPatternConverter" Collapsed="true">
+    <Position X="53.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\PatternStringConverters\AppDomainPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.PatternStringConverters.DatePatternConverter" Collapsed="true">
+    <Position X="55.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAgAIAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\PatternStringConverters\DatePatternConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="log4net.Util.PatternStringConverters.EnvironmentFolderPathPatternConverter" Collapsed="true">
+    <Position X="58" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\PatternStringConverters\EnvironmentFolderPathPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.PatternStringConverters.EnvironmentPatternConverter" Collapsed="true">
+    <Position X="60.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\PatternStringConverters\EnvironmentPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.PatternStringConverters.IdentityPatternConverter" Collapsed="true">
+    <Position X="62.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\PatternStringConverters\IdentityPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.PatternStringConverters.LiteralPatternConverter" Collapsed="true">
+    <Position X="64.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAggAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\PatternStringConverters\LiteralPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.PatternStringConverters.NewLinePatternConverter" Collapsed="true">
+    <Position X="64.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\PatternStringConverters\NewLinePatternConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="log4net.Util.PatternStringConverters.ProcessIdPatternConverter" Collapsed="true">
+    <Position X="67" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\PatternStringConverters\ProcessIdPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.PatternStringConverters.PropertyPatternConverter" Collapsed="true">
+    <Position X="69.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\PatternStringConverters\PropertyPatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.PatternStringConverters.RandomStringPatternConverter" Collapsed="true">
+    <Position X="71.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAiAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\PatternStringConverters\RandomStringPatternConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="log4net.Util.PatternStringConverters.UserNamePatternConverter" Collapsed="true">
+    <Position X="73.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\PatternStringConverters\UserNamePatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.PatternStringConverters.UtcDatePatternConverter" Collapsed="true">
+    <Position X="55.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\PatternStringConverters\UtcDatePatternConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.TypeConverters.BooleanConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="83.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\TypeConverters\BooleanConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Util.TypeConverters.ConversionNotSupportedException" Collapsed="true">
+    <Position X="90.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\TypeConverters\ConversionNotSupportedException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.TypeConverters.ConverterRegistry" Collapsed="true">
+    <Position X="76.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAEYAAAAAICAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\TypeConverters\ConverterRegistry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="log4net.Util.TypeConverters.EncodingConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="90.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\TypeConverters\EncodingConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Util.TypeConverters.IPAddressConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="81.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\TypeConverters\IPAddressConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Util.TypeConverters.PatternLayoutConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="81.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\TypeConverters\PatternLayoutConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Util.TypeConverters.PatternStringConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="86.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAACAAAAIAAAAAAAA=</HashCode>
+      <FileName>Util\TypeConverters\PatternStringConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Util.TypeConverters.TypeConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="92" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\TypeConverters\TypeConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="log4net.Util.TypeConverters.TypeConverterAttribute" Collapsed="true">
+    <Position X="76.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\TypeConverters\TypeConverterAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="log4net.Core.LoggingEventData" Collapsed="true">
+    <Position X="76.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAGKAAAAAAAAAAAAAAAAAgAAAAABAUAAIAACAAA=</HashCode>
+      <FileName>Core\LoggingEvent.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="log4net.Appender.IAppender" Collapsed="true">
+    <Position X="9.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAIAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Appender\IAppender.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.Appender.IBulkAppender" Collapsed="true">
+    <Position X="9.5" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Appender\IBulkAppender.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.Core.IAppenderAttachable" Collapsed="true">
+    <Position X="76.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAQAAAAEIAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Core\IAppenderAttachable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.Core.IErrorHandler" Collapsed="true">
+    <Position X="85" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\IErrorHandler.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.Core.IFixingRequired" Collapsed="true">
+    <Position X="86.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\IFixingRequired.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.Core.ILogger" Collapsed="true">
+    <Position X="90.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAgAAAAAQAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\ILogger.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.Core.ILoggerWrapper" Collapsed="true">
+    <Position X="3.5" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\ILoggerWrapper.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.Core.IOptionHandler" Collapsed="true">
+    <Position X="6.5" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\IOptionHandler.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.Core.IRepositorySelector" Collapsed="true">
+    <Position X="85" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgAAAAAAAAgAAAACAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\IRepositorySelector.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.Core.ITriggeringEventEvaluator" Collapsed="true">
+    <Position X="86.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\ITriggeringEventEvaluator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.DateFormatter.IDateFormatter" Collapsed="true">
+    <Position X="83.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DateFormatter\IDateFormatter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.Filter.IFilter" Collapsed="true">
+    <Position X="6.5" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Filter\IFilter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.ILog" Collapsed="true">
+    <Position X="3.5" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAbCAAAAAAAAAQCAgAAUAAAAACEAEAQA=</HashCode>
+      <FileName>ILog.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.Layout.ILayout" Collapsed="true">
+    <Position X="88.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Layout\ILayout.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.Layout.IRawLayout" Collapsed="true">
+    <Position X="83.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layout\IRawLayout.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.ObjectRenderer.IObjectRenderer" Collapsed="true">
+    <Position X="78" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>ObjectRenderer\IObjectRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.Plugin.IPlugin" Collapsed="true">
+    <Position X="79.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQQAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Plugin\IPlugin.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.Plugin.IPluginFactory" Collapsed="true">
+    <Position X="81.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Plugin\IPluginFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.Repository.IBasicRepositoryConfigurator" Collapsed="true">
+    <Position X="78" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\IBasicRepositoryConfigurator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.Repository.ILoggerRepository" Collapsed="true">
+    <Position X="76.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAIEAAAAQAAACAABAAQRAAAgAAAAEAgAgAAMCAAA=</HashCode>
+      <FileName>Repository\ILoggerRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.Repository.IXmlRepositoryConfigurator" Collapsed="true">
+    <Position X="88.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\IXmlRepositoryConfigurator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.Repository.Hierarchy.ILoggerFactory" Collapsed="true">
+    <Position X="92" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\Hierarchy\ILoggerFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.Util.TypeConverters.IConvertFrom" Collapsed="true">
+    <Position X="79.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\TypeConverters\IConvertFrom.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="log4net.Util.TypeConverters.IConvertTo" Collapsed="true">
+    <Position X="81.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAIAAAAAAAA=</HashCode>
+      <FileName>Util\TypeConverters\IConvertTo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="log4net.Core.ErrorCode" Collapsed="true">
+    <Position X="76.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAIQAAAAAAAAAAAAAACAAAQAAAEAAAAAAAACAAA=</HashCode>
+      <FileName>Core\ErrorCode.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="log4net.Core.FixFlags" Collapsed="true">
+    <Position X="79.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABAAECAAAAAAAAAAAAAAAAAgAAAAAAAcBEIAECAAA=</HashCode>
+      <FileName>Core\LoggingEvent.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="log4net.Filter.FilterDecision" Collapsed="true">
+    <Position X="78" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Filter\FilterDecision.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="log4net.Core.LoggerRepositoryCreationEventHandler" Collapsed="true">
+    <Position X="81.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\IRepositorySelector.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="log4net.Core.WrapperCreationHandler" Collapsed="true">
+    <Position X="88.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Core\WrapperMap.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="log4net.Repository.LoggerRepositoryShutdownEventHandler" Collapsed="true">
+    <Position X="83.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\ILoggerRepository.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="log4net.Repository.LoggerRepositoryConfigurationResetEventHandler" Collapsed="true">
+    <Position X="79.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\ILoggerRepository.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="log4net.Repository.LoggerRepositoryConfigurationChangedEventHandler" Collapsed="true">
+    <Position X="78" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\ILoggerRepository.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="log4net.Repository.Hierarchy.LoggerCreationEventHandler" Collapsed="true">
+    <Position X="76.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\Hierarchy\Hierarchy.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="log4net.Util.TwoArgAction&lt;T1, T2&gt;" Collapsed="true">
+    <Position X="86.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\LogicalThreadContextStack.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="log4net.Util.LogReceivedEventHandler" Collapsed="true">
+    <Position X="85" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Util\LogLog.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,4 @@
+D:\ILSpycn_Ha - 副本\源代码包\log4net-1.2.15\build\bin\net\4.5\release\log4net.dll
+D:\ILSpycn_Ha - 副本\源代码包\log4net-1.2.15\build\bin\net\4.5\release\log4net.xml
+D:\ILSpycn_Ha - 副本\源代码包\log4net-1.2.15\src\obj\Release\log4net.csprojResolveAssemblyReference.cache
+D:\ILSpycn_Ha - 副本\源代码包\log4net-1.2.15\src\obj\Release\log4net.dll

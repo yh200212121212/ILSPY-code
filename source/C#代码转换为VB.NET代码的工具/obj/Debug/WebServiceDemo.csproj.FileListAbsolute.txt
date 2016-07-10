@@ -1,0 +1,10 @@
+D:\ILSpycn_Ha\源代码包\C#代码转换为VB.NET代码的工具\bin\Debug\WebServiceDemo.exe.config
+D:\ILSpycn_Ha\源代码包\C#代码转换为VB.NET代码的工具\bin\Debug\WebServiceDemo.exe
+D:\ILSpycn_Ha\源代码包\C#代码转换为VB.NET代码的工具\bin\Debug\WebServiceDemo.pdb
+D:\ILSpycn_Ha\源代码包\C#代码转换为VB.NET代码的工具\bin\Debug\DiffLib.dll
+D:\ILSpycn_Ha\源代码包\C#代码转换为VB.NET代码的工具\bin\Debug\DiffLib.xml
+D:\ILSpycn_Ha\源代码包\C#代码转换为VB.NET代码的工具\obj\Debug\WebServiceDemo.csprojResolveAssemblyReference.cache
+D:\ILSpycn_Ha\源代码包\C#代码转换为VB.NET代码的工具\obj\Debug\WebServiceDemo.Form1.resources
+D:\ILSpycn_Ha\源代码包\C#代码转换为VB.NET代码的工具\obj\Debug\WebServiceDemo.csproj.GenerateResource.Cache
+D:\ILSpycn_Ha\源代码包\C#代码转换为VB.NET代码的工具\obj\Debug\WebServiceDemo.exe
+D:\ILSpycn_Ha\源代码包\C#代码转换为VB.NET代码的工具\obj\Debug\WebServiceDemo.pdb

@@ -1,0 +1,33 @@
+C:\Users\i\Desktop\ILSpy_Master_2.1.0.1603_RTW_Source\BuildTools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.exe
+C:\Users\i\Desktop\ILSpy_Master_2.1.0.1603_RTW_Source\BuildTools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.pdb
+C:\Users\i\Desktop\ILSpy_Master_2.1.0.1603_RTW_Source\BuildTools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.csprojResolveAssemblyReference.cache
+C:\Users\i\Desktop\ILSpy_Master_2.1.0.1603_RTW_Source\BuildTools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.exe
+C:\Users\i\Desktop\ILSpy_Master_2.1.0.1603_RTW_Source\BuildTools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.pdb
+E:\Develop\Private\iFishMod\ILSpy\BuildTools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.exe
+E:\Develop\Private\iFishMod\ILSpy\BuildTools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.pdb
+E:\Develop\Private\iFishMod\ILSpy\BuildTools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.csprojResolveAssemblyReference.cache
+E:\Develop\Private\iFishMod\ILSpy\BuildTools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.exe
+E:\Develop\Private\iFishMod\ILSpy\BuildTools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.pdb
+E:\Develop\PrivateStandalone\iFishMod\ILSpy\BuildTools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.exe
+E:\Develop\PrivateStandalone\iFishMod\ILSpy\BuildTools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.pdb
+E:\Develop\PrivateStandalone\iFishMod\ILSpy\BuildTools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.csprojResolveAssemblyReference.cache
+E:\Develop\PrivateStandalone\iFishMod\ILSpy\BuildTools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.exe
+E:\Develop\PrivateStandalone\iFishMod\ILSpy\BuildTools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.pdb
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\BuildTools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.exe
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\BuildTools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.pdb
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\BuildTools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.csprojResolveAssemblyReference.cache
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\BuildTools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.exe
+C:\Users\John\Downloads\ILSpycn_Ha\源代码包\BuildTools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.pdb
+D:\ILSpycn_Ha\源代码包\BuildTools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.exe
+D:\ILSpycn_Ha\源代码包\BuildTools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.pdb
+D:\ILSpycn_Ha\源代码包\BuildTools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.csprojResolveAssemblyReference.cache
+D:\ILSpycn_Ha\源代码包\BuildTools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.exe
+D:\ILSpycn_Ha\源代码包\BuildTools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.pdb
+D:\ILSpycn_Ha - 副本\源代码包\BuildTools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.exe
+D:\ILSpycn_Ha - 副本\源代码包\BuildTools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.pdb
+D:\ILSpycn_Ha - 副本\源代码包\BuildTools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.csprojResolveAssemblyReference.cache
+D:\ILSpycn_Ha - 副本\源代码包\BuildTools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.exe
+D:\ILSpycn_Ha - 副本\源代码包\BuildTools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.pdb
+D:\ILSpycn_Ha - 副本\源代码包\BuildTools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.exe.config
+D:\ILSpycn_Ha - 副本\源代码包\BuildTools\UpdateAssemblyInfo\bin\Debug\DiffLib.dll
+D:\ILSpycn_Ha - 副本\源代码包\BuildTools\UpdateAssemblyInfo\bin\Debug\DiffLib.xml

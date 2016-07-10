@@ -1,0 +1,5 @@
+D:\ILSpycn_Ha\源代码包\TestPlugin\obj\x64\Debug\TestPlugin.csprojResolveAssemblyReference.cache
+D:\ILSpycn_Ha\源代码包\TestPlugin\obj\x64\Debug\CustomOptionPage.baml
+D:\ILSpycn_Ha\源代码包\TestPlugin\obj\x64\Debug\CustomOptionPage.g.cs
+D:\ILSpycn_Ha\源代码包\TestPlugin\obj\x64\Debug\Test.Plugin_MarkupCompile.cache
+D:\ILSpycn_Ha\源代码包\TestPlugin\obj\x64\Debug\Test.Plugin.g.resources
